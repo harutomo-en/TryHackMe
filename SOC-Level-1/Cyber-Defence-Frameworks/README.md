@@ -22,11 +22,15 @@ A Security Operations Center (SOC) is a team that handles the prevention, monito
 
 This image displays the responsibilities included for the SOC:
 ###### Source: TryHackMe
-![SOC Operations](https://tryhackme-images.s3.amazonaws.com/user-uploads/60c7fac321aca20049602d2b/room-content/ac6d125de72c99f799d13c1aaf0c55dd.PNG "The responsibilities for the SOC") 
+<img src="https://tryhackme-images.s3.amazonaws.com/user-uploads/60c7fac321aca20049602d2b/room-content/ac6d125de72c99f799d13c1aaf0c55dd.PNG" align="center"></img>
 
 To elaborate on this circle of responsiblities, the best place to start is with _Log Collection_
 
 **Log Collection** is the collection and maintainence of log files that store all the activity and communications taking place on the networks relevent to the SOC.  Logging these activities allows for tracing back and pinpointing any past actions that have affecting a security incident.  Log collection and analysis is also important for establishing a baseline for normal activity, increasing the effectiveness of IDS and IPS systems. 
+
+**Knowledge Base** refers to an understanding of existing security standards, vulnerabilities, attack vectors, and available tools necessary for ensuring the confidentiality, integrity, and availability of an organization's services, networks, and data.  
+
+**Research and Development** refers to the continious education necessary in the field of cybersecurity.  Day by day, new vulnerabilities are discovered, new patches are developed and released, and new security tools are made available to improve security operations.  To maintain security, keeping up
 
 
 ## Pyramid Of Pain
