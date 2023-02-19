@@ -22,7 +22,7 @@ A Security Operations Center (SOC) is a team that handles the prevention, monito
 
 This image displays the responsibilities included for the SOC:
 ###### Source: TryHackMe
-<img src="https://tryhackme-images.s3.amazonaws.com/user-uploads/60c7fac321aca20049602d2b/room-content/ac6d125de72c99f799d13c1aaf0c55dd.PNG" align="center"></img>
+<img src="https://i.imgur.com/s39NuzG.png" align="center"></img>
 
 To elaborate on this circle of responsiblities, the best place to start is with _Log Collection_
 
