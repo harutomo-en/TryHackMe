@@ -32,7 +32,19 @@ To elaborate on this circle of responsiblities, the best place to start is with 
 
 **Knowledge Base** refers to an understanding of existing security standards, vulnerabilities, attack vectors, and available tools necessary for ensuring the confidentiality, integrity, and availability of an organization's services, networks, and data.  
 
-**Research and Development** refers to the continious education necessary in the field of cybersecurity.  Day by day, new vulnerabilities are discovered, new patches are developed and released, and new security tools are made available to improve security operations.  To maintain security, keeping up
+**Research and Development** refers to the continious education necessary in the field of cybersecurity.  Day by day, new vulnerabilities are discovered, new patches are developed and released, and new security tools are made available to improve security operations.  To maintain security, keeping up to date with these changes and developing solutions to newfound problems is essential.
+
+**Aggregation and Correlation** refers to organizing and standardizing a large amount of data, usually log data, and analyzing them to provide meaningful information for security analysts.
+
+**Threat Intelligence** refers to gaining information about possible threats to an organization's security, such as new phishing techniques or the attack vectors of new popular malware.
+
+**SIEM**, or a Security Information and Events Manager, is a type of software that combines the capabilities of a Security Information Manager (SIM) with a Security Event Manager (SEM).  A SIEM's primary capabilty is it's a bility to aggregate and analyze data from an organization's security framework and provide an analysis on a single dashboard.  The SIEM supports a Security Operation Center's incident response capabilities.
+
+**Reporting** is how a SOC communicates their findings to the management of an organization.  This both enables transparency to management regarding the security of their company, as well as allowing management to dictate what type of response to major incidents should be implemented.
+
+A nice website I found on SOC reports is available [here]("https://www.bitsight.com/blog/a-security-operations-center-report-template").
+
+**Ticketing** refers to the case management and assignment method used in Security Operation Centers.  When a potential incident occurs, the case should be assigned and tracked until the case's closure to ensure that it was properly handled.  This is the function of ticketing.
 
 
 ## Pyramid Of Pain
