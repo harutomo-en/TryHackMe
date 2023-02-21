@@ -42,7 +42,7 @@ To elaborate on this circle of responsiblities, the best place to start is with 
 
 **Reporting** is how a SOC communicates their findings to the management of an organization.  This both enables transparency to management regarding the security of their company, as well as allowing management to dictate what type of response to major incidents should be implemented.
 
-A nice website I found on SOC reports is available [here]("https://www.bitsight.com/blog/a-security-operations-center-report-template").
+A nice website I found on SOC reports is available [here](https://www.bitsight.com/blog/a-security-operations-center-report-template).
 
 **Ticketing** refers to the case management and assignment method used in Security Operation Centers.  When a potential incident occurs, the case should be assigned and tracked until the case's closure to ensure that it was properly handled.  This is the function of ticketing.
 
