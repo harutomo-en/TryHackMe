@@ -42,19 +42,43 @@ To elaborate on this circle of responsiblities, the best place to start is with 
 
 **Reporting** is how a SOC communicates their findings to the management of an organization.  This both enables transparency to management regarding the security of their company, as well as allowing management to dictate what type of response to major incidents should be implemented.
 
-A nice website I found on SOC reports is available [here]("https://www.bitsight.com/blog/a-security-operations-center-report-template").
+A nice website I found on SOC reports is available [here](https://www.bitsight.com/blog/a-security-operations-center-report-template).
 
 **Ticketing** refers to the case management and assignment method used in Security Operation Centers.  When a potential incident occurs, the case should be assigned and tracked until the case's closure to ensure that it was properly handled.  This is the function of ticketing.
+
+#### **Roles of a SOC Junior Security Analyst**
+---
+
+**Preparation and Prevention**:
+
+To prepare for and prevent incidents, a Junior Securty Analyst must keep up to date with the current threats in cybersecurity.
+
+[Feedly](https://feedly.com/i/welcome) and Twitter are recommended sources to keep up with the latest news in cybersecurity.
+
+To prevent incidents from occurring, it is important to learn the Tactics, Techniques, and Procedures (TTPs) that are popular with recent threat actors.  This allows security teams to check and harden weak points that are being most commonly targetted as well as being able to block malicious IPs and programs being utilized by threat actors.
+
+The [CISA (Cybersecurity & Infrastructure Security Agency)](https://www.cisa.gov/uscert/ncas) releases reports that analyze the latest incidents and threat actor TTPs.
+
+**Monitoring and Investigation**:
+For monitoring and investigation, a SOC team makes use of previously mentioned SIEM software and Endpoint Detection and Response (EDR) tools to monitor the network and to alert suspicious activity.  Alerte threats are often accompanied by a rating based on their severity and danger-level, similarly to how the CVSS rates newfound vulnerabilities.  This helps security professionals prioritize the alerts that are of a higher rating and pose a much higher risk to the security of an organization.
+
+**Response**:
+The response to an incident is something that can change depending on what type of incident occurred and what the scope of compromised data.  A common response to an incident is to immediately isolate affected hosts from the rest of the network to prevent further spread, a collection of forensic data starting with the most volitile.
+
 
 
 ## Pyramid Of Pain
 ---
+(WIP)
 
 ## Cyber Kill Chain
 ---
+(WIP)
 
 ## Unified Kill Chain
 ---
+(WIP)
 
 ## Diamond Model
 ---
+(WIP)
