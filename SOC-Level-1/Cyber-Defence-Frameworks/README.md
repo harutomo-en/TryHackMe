@@ -69,7 +69,13 @@ The response to an incident is something that can change depending on what type 
 
 ## Pyramid Of Pain
 ---
-(WIP)
+<p align=center><img src=https://i.ibb.co/QYWXRSh/pop2.png width=75%></p>
+
+The Pyramid of Pain is a ranking system that models the level of difficulty it will cause for an attacker to change or replace different elements of their attacks.
+
+### Hash Values (Trivial)
+---
+
 
 ## Cyber Kill Chain
 ---
